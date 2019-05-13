@@ -1,0 +1,33 @@
+body {
+  color: #1a7009;
+  text-align: center;
+  position: relative;
+}
+
+.heading {
+  margin-bottom: 0;
+  padding: 0;
+  margin-top: 4px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  color: #1a7009;
+  font-size: medium;
+}
+
+.parent {
+  width: 40%;
+  height: 100px;
+}
+
+span {
+  display: inline-block;
+  width: 20%;
+  height: 80%;
+}
+
+span>img {
+  width: 70%;
+}
