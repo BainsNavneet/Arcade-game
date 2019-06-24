@@ -1,20 +1,17 @@
 # Classic Arcade Game Clone Project
+Arcade game set the goal of player to reach other grass Side without Hitting into any of the bug enemies. This project has basic game functionality but covers advanced Object-Oriented JavaScript concepts and HTML5 Canvas.
 
-## Table of Contents
+## Instructions How to play
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+Use arrow keys to move up, down, left, right.
+Try to avoid bugs.
+Colliding with bugs causes your life and score to reduce by 1
+Try to reach the grass Side to win the game
+If you use alll the lives, game is lost!
+Good Luck! and have fun!
 
-## Instructions
-
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
-
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
-
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
-
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## WHAT'S INCLUDED
+1) style.css
+2)engine.js 
+3)resource.js
+4) index.html
