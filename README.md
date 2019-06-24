@@ -12,6 +12,6 @@ Good Luck! and have fun!
 
 ## WHAT'S INCLUDED
 1) style.css
-2)engine.js 
-3)resource.js
+2) engine.js 
+3) resource.js
 4) index.html
